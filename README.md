@@ -6,15 +6,9 @@ Eu sou Agnaldo Felix, :smiley:
 
 Sou apaixonado por programação e tecnologias desde o meu ensino médio que comecei a ter mais conhecimento. Mas só me aprofundei de fato quando entrei na faculdade de Ciencias Da Computação em 2022 curso que estou fazendo atualmente, a cada dia me sinto mais motivado e dedicado a aprender. Estou diariamente buscando conhecimento, aprimorando minhas softskills e me arriscando em projetos pontuais onde demonstro habilidades com tecnologias alinhadas com a realidade do mercado que e que agregam em meu desenvolvimento profissional e pessoal, e com isso um dia me tornar um programador "Full Stack" bem preparado para o mercado de trabalho.
 
-:globe_with_meridians: Social
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <link href="https://www.linkedin.com/in/agnaldofelix/"/> <img/>
-
-
-
-:computer: Linguagens e Ferramentas:
+:computer: Tecnologias:
     
-
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
