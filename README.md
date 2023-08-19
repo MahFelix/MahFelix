@@ -36,5 +36,3 @@ Sou apaixonado por programação e tecnologias desde o meu ensino médio que com
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahFelix&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MahFelix&show_icons=true&theme=radical)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MahFelix&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
