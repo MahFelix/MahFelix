@@ -8,11 +8,11 @@ Sou apaixonado por programação e tecnologias desde o meu ensino médio que com
 
 :globe_with_meridians: Social
 
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <a href="https://www.linkedin.com/in/agnaldofelix/ " /> <img/>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> <link href="https://www.linkedin.com/in/agnaldofelix/"/> <img/>
 
 
 
-:computer: Minhas tecnologias
+:computer: Linguagens e Ferramentas:
     
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
