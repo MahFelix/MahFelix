@@ -2,11 +2,16 @@
 
 Eu sou Agnaldo Felix, :smiley:
 
-:sparkles: I love:
+:sparkles: I love: :heartpulse:
+<br>
 :coffee:Coffee
+<br>
 :runner:Corrida
+<br>
 :muscle:Academia
+<br>
 :books:Leitura
+<br>
 :computer:Programação
 
 
