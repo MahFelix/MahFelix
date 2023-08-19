@@ -2,7 +2,7 @@
 
 Eu sou Agnaldo Felix, :smiley:
 
-:man: Sobre mim
+:man: <h1> Sobre mim </h1>
 
 Sou apaixonado por programação e tecnologias desde o meu ensino médio que comecei a ter mais conhecimento. Mas só me aprofundei de fato quando entrei na faculdade de Ciencias Da Computação em 2022 curso que estou fazendo atualmente, a cada dia me sinto mais motivado e dedicado a aprender. Estou diariamente buscando conhecimento, aprimorando minhas softskills e me arriscando em projetos pontuais onde demonstro habilidades com tecnologias alinhadas com a realidade do mercado que e que agregam em meu desenvolvimento profissional e pessoal, e com isso um dia me tornar um programador "Full Stack" bem preparado para o mercado de trabalho.
 
