@@ -17,8 +17,11 @@ Eu sou Agnaldo Felix, :smiley:
 
 :man: <h1> About me </h1>
 
-Sou apaixonado por programação e tecnologias desde o meu ensino médio que comecei a ter mais conhecimento. Mas só me aprofundei de fato quando entrei na faculdade de Ciencias Da Computação em 2022 curso que estou fazendo atualmente, a cada dia me sinto mais motivado e dedicado a aprender. Estou diariamente buscando conhecimento, aprimorando minhas softskills e me arriscando em projetos pontuais onde demonstro habilidades com tecnologias alinhadas com a realidade do mercado que e que agregam em meu desenvolvimento profissional e pessoal, e com isso um dia me tornar um programador "Full Stack" bem preparado para o mercado de trabalho.
+Sou apaixonado por programação desde o ensino médio, mas foi em 2022, quando entrei no curso de Ciência da Computação, que realmente mergulhei de cabeça nesse universo. Desde então, venho me dedicando diariamente a aprender, evoluir minhas soft skills e colocar em prática o que estudo.
 
+Gosto de me desafiar em projetos que unem aprendizado e propósito, utilizando tecnologias como Java (Spring Boot), Node.js, Python, React e Styled-Components, além de trabalhar com bancos de dados como PostgreSQL.
+
+Estou sempre buscando evoluir, tanto tecnicamente quanto pessoalmente, com o objetivo de me tornar um desenvolvedor Full Stack preparado para encarar os desafios reais do mercado e fazer a diferença através da tecnologia.
 
 :computer: <h1> My Stacks </h1>:
     
