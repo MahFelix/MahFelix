@@ -2,7 +2,7 @@
 
 Eu sou Agnaldo Felix, :smiley:
 
-:sparkles: I love: :heartpulse:
+:sparkles: I like: :heartpulse:
 <br>
 :coffee:Coffee
 <br>
